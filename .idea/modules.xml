@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Condicional/Condicional.iml" filepath="$PROJECT_DIR$/Condicional/Condicional.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/aulaJava.iml" filepath="$PROJECT_DIR$/.idea/aulaJava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/src.iml" filepath="$PROJECT_DIR$/src/src.iml" />
+      <module fileurl="file://$PROJECT_DIR$/for/for.iml" filepath="$PROJECT_DIR$/for/for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/while/while.iml" filepath="$PROJECT_DIR$/while/while.iml" />
     </modules>
   </component>
 </project>

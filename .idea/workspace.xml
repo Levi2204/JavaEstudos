@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="374112a4-8a53-4238-bdae-7f0d769fbf15" name="Changes" comment="" />
+    <list default="true" id="374112a4-8a53-4238-bdae-7f0d769fbf15" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,12 +19,15 @@
       </list>
     </option>
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2WEH8iTdlF7Dd0nusNxnpXUpFJI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,30 +37,62 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "20",
     "last_opened_file_path": "C:/Users/levit/IdeaProjects",
-    "onboarding.tips.debug.path": "C:/Users/levit/Documents/aulaJava/src/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/levit/Documents/AulaJava/Condicional/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.desafio01">
-    <configuration name="desafio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="desafio01" />
-      <module name="aulaJava" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\levit\Documents\AulaJava" />
+      <recent name="C:\Users\levit\Documents\AulaJava\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DesafioSomaLista">
+    <configuration name="DesafioFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesafioFibonacci" />
+      <module name="while" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="desafio02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="desafio02" />
-      <module name="aulaJava" />
+    <configuration name="DesafioPAMelhor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesafioPAMelhor" />
+      <module name="while" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesafioPAWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesafioPAWhile" />
+      <module name="while" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesafioSomaLista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesafioSomaLista" />
+      <module name="while" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesafioSomaWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesafioSomaWhile" />
+      <module name="while" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.desafio01" />
-        <item itemvalue="Application.desafio02" />
+        <item itemvalue="Application.DesafioSomaLista" />
+        <item itemvalue="Application.DesafioSomaWhile" />
+        <item itemvalue="Application.DesafioFibonacci" />
+        <item itemvalue="Application.DesafioPAMelhor" />
+        <item itemvalue="Application.DesafioPAWhile" />
       </list>
     </recent_temporary>
   </component>
