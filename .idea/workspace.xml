@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="374112a4-8a53-4238-bdae-7f0d769fbf15" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/while/DesafioSomaLista.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/while/DesafioSomaLista.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/while/src/DesafioSomaLista.java" beforeDir="false" afterPath="$PROJECT_DIR$/while/src/DesafioSomaLista.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,17 +50,17 @@
       <recent name="C:\Users\levit\Documents\AulaJava\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.desafioIMC">
-    <configuration name="DesafioFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesafioFibonacci" />
-      <module name="while" />
+  <component name="RunManager" selected="Application.DesafioPassos">
+    <configuration name="DesafioCalcularArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesafioCalcularArea" />
+      <module name="Funcao" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafioPAMelhor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesafioPAMelhor" />
-      <module name="while" />
+    <configuration name="DesafioPassos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesafioPassos" />
+      <module name="Funcao" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -91,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DesafioPassos" />
+        <item itemvalue="Application.DesafioCalcularArea" />
         <item itemvalue="Application.desafioIMC" />
         <item itemvalue="Application.DesafioSomaLista" />
         <item itemvalue="Application.DesafioSomaWhile" />
-        <item itemvalue="Application.DesafioFibonacci" />
-        <item itemvalue="Application.DesafioPAMelhor" />
       </list>
     </recent_temporary>
   </component>
@@ -109,16 +106,5 @@
       <updated>1696290661469</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Funcao/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
