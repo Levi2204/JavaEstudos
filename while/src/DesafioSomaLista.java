@@ -32,13 +32,11 @@ public class DesafioSomaLista {
         for (int numero : listaUm) {
             if (numero > maiorValor) {
                 maiorValor = numero;
-            }
-        }
-        for (int numero : listaUm) {
-            if (numero < menorValor) {
+            }else if (numero < menorValor){
                 menorValor = numero;
             }
         }
+
         int tamanhoLista = listaUm.size();
 
         System.out.printf("A média de todos os números digitados é: %.2f %n", (soma/tamanhoLista));
