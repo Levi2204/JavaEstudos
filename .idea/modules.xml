@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condicional/Condicional.iml" filepath="$PROJECT_DIR$/Condicional/Condicional.iml" />
       <module fileurl="file://$PROJECT_DIR$/Funcao/Funcao.iml" filepath="$PROJECT_DIR$/Funcao/Funcao.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/aulaJava.iml" filepath="$PROJECT_DIR$/.idea/aulaJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exs/exs.iml" filepath="$PROJECT_DIR$/exs/exs.iml" />
       <module fileurl="file://$PROJECT_DIR$/for/for.iml" filepath="$PROJECT_DIR$/for/for.iml" />
       <module fileurl="file://$PROJECT_DIR$/while/while.iml" filepath="$PROJECT_DIR$/while/while.iml" />
     </modules>

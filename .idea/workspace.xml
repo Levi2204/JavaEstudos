@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="374112a4-8a53-4238-bdae-7f0d769fbf15" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Array/Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exs/exs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aulaJava/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aulaJava/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aulaJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aulaJava/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,66 +38,67 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/levit/Documents/AulaJava&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/levit/Documents/AulaJava/Funcao/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "20",
+    "last_opened_file_path": "C:/Users/levit/Documents/POOJava",
+    "onboarding.tips.debug.path": "C:/Users/levit/Documents/AulaJava/exs/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\levit\Documents\AulaJava" />
       <recent name="C:\Users\levit\Documents\AulaJava\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DesafioPassos">
-    <configuration name="DesafioCalcularArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesafioCalcularArea" />
-      <module name="Funcao" />
+  <component name="RunManager" selected="Application.DesafioSomas">
+    <configuration name="AulaArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AulaArray" />
+      <module name="Array" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafioPassos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesafioPassos" />
-      <module name="Funcao" />
+    <configuration name="DesafioBanco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesafioBanco" />
+      <module name="exs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafioSomaLista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesafioSomaLista" />
-      <module name="while" />
+    <configuration name="DesafioPares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesafioPares" />
+      <module name="exs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafioSomaWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesafioSomaWhile" />
-      <module name="while" />
+    <configuration name="DesafioSomas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesafioSomas" />
+      <module name="exs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="desafioIMC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="desafioIMC" />
-      <module name="Funcao" />
+    <configuration name="Desafioarea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desafioarea" />
+      <module name="exs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DesafioPassos" />
-        <item itemvalue="Application.DesafioCalcularArea" />
-        <item itemvalue="Application.desafioIMC" />
-        <item itemvalue="Application.DesafioSomaLista" />
-        <item itemvalue="Application.DesafioSomaWhile" />
+        <item itemvalue="Application.DesafioSomas" />
+        <item itemvalue="Application.DesafioPares" />
+        <item itemvalue="Application.DesafioBanco" />
+        <item itemvalue="Application.Desafioarea" />
+        <item itemvalue="Application.AulaArray" />
       </list>
     </recent_temporary>
   </component>
